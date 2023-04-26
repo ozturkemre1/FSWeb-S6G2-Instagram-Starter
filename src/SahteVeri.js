@@ -1,4 +1,4 @@
-const sahteVeri = [
+const SahteVeri = [
     {
         id: 1,
         username: "philzcoffee",
@@ -56,4 +56,4 @@ const sahteVeri = [
     },
 ];
 
-export default sahteVeri;
+export default SahteVeri;
